@@ -6,7 +6,6 @@ import ru.job4j.chess.firuges.Cell;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 import static org.assertj.core.api.Assertions.*;
 
-
 class BishopBlackTest {
 
     @Test
